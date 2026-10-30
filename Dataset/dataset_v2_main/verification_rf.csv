@@ -1,0 +1,5 @@
+task,acc,bal_acc,majority,chance
+class | PNG metadata,0.353,0.267,0.149,0.077
+source | PNG metadata,0.618,0.51,0.539,0.25
+class | original metadata,0.576,0.421,0.149,0.077
+source | original metadata,0.917,0.901,0.539,0.25

@@ -1,0 +1,19 @@
+{
+  "model": "vgg16",
+  "strategy": "full",
+  "tag": "default",
+  "fold": 0,
+  "final_epoch": 50,
+  "test_acc": 0.8308457711442786,
+  "test_macro_f1": 0.7799019802480689,
+  "test_bal_acc": 0.7837850545511836,
+  "train_time_min": 6.198446369171142,
+  "params_total": 134313805,
+  "params_trainable": 134313805,
+  "checkpoint_mb": 537.266295,
+  "latency_ms_bs1_fp32": 14.768232500045997,
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.29",
+  "pretrained_license": "bsd-3-clause"
+}

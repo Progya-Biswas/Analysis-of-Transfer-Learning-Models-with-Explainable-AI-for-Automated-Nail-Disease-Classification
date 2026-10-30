@@ -1,0 +1,4 @@
+model,strategy,selected_tag,default_f0_macro_f1,selected_f0_macro_f1,n_heldout_folds,acc_mean_f1to4,acc_sd_f1to4,macro_f1_mean_f1to4,macro_f1_sd_f1to4,bal_acc_mean_f1to4,bal_acc_sd_f1to4
+vgg16,frozen,h_x3_e60_lightaug,0.5687,0.6249,4,0.6522,0.0533,0.5864,0.0586,0.6148,0.0628
+vgg16,full,lr_x3,0.7799,0.8195,4,0.8303,0.03,0.7851,0.0456,0.7826,0.0501
+vgg16,partial,lr_x3,0.7344,0.7463,4,0.7834,0.0191,0.7309,0.0245,0.7398,0.0271

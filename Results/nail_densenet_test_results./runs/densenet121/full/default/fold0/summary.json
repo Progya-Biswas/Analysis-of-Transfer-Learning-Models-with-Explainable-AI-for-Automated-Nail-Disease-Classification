@@ -1,0 +1,19 @@
+{
+  "model": "densenet121",
+  "strategy": "full",
+  "tag": "default",
+  "fold": 0,
+  "final_epoch": 50,
+  "test_acc": 0.8955223880597015,
+  "test_macro_f1": 0.8856840880696998,
+  "test_bal_acc": 0.8852820118949153,
+  "train_time_min": 3.7921327392260236,
+  "params_total": 6967181,
+  "params_trainable": 6967181,
+  "checkpoint_mb": 28.443415,
+  "latency_ms_bs1_fp32": 16.433176000077765,
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.29",
+  "pretrained_license": "apache-2.0"
+}

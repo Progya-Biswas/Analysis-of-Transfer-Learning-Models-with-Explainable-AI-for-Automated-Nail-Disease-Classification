@@ -1,0 +1,109 @@
+run,class,source,n,recall
+convnext_tiny-frozen-default-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-frozen-default-f0,healthy,archive5,10,1.0
+convnext_tiny-frozen-default-f0,healthy,archive6,8,0.875
+convnext_tiny-frozen-default-f0,clubbing,BASE,8,0.5
+convnext_tiny-frozen-default-f0,clubbing,archive5,22,0.9545454545454546
+convnext_tiny-frozen-default-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-frozen-default-f0,psoriasis,archive6,22,0.8636363636363636
+convnext_tiny-frozen-default-f0,ALL (accuracy),BASE,109,0.5871559633027523
+convnext_tiny-frozen-default-f0,ALL (accuracy),external,92,0.8478260869565217
+convnext_tiny-frozen-h_x3-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-frozen-h_x3-f0,healthy,archive5,10,1.0
+convnext_tiny-frozen-h_x3-f0,healthy,archive6,8,0.875
+convnext_tiny-frozen-h_x3-f0,clubbing,BASE,8,0.625
+convnext_tiny-frozen-h_x3-f0,clubbing,archive5,22,0.9545454545454546
+convnext_tiny-frozen-h_x3-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-frozen-h_x3-f0,psoriasis,archive6,22,0.7272727272727273
+convnext_tiny-frozen-h_x3-f0,ALL (accuracy),BASE,109,0.6513761467889908
+convnext_tiny-frozen-h_x3-f0,ALL (accuracy),external,92,0.8369565217391305
+convnext_tiny-frozen-h_x3_e60-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-frozen-h_x3_e60-f0,healthy,archive5,10,1.0
+convnext_tiny-frozen-h_x3_e60-f0,healthy,archive6,8,0.875
+convnext_tiny-frozen-h_x3_e60-f0,clubbing,BASE,8,0.5
+convnext_tiny-frozen-h_x3_e60-f0,clubbing,archive5,22,0.9545454545454546
+convnext_tiny-frozen-h_x3_e60-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-frozen-h_x3_e60-f0,psoriasis,archive6,22,0.7727272727272727
+convnext_tiny-frozen-h_x3_e60-f0,ALL (accuracy),BASE,109,0.6697247706422018
+convnext_tiny-frozen-h_x3_e60-f0,ALL (accuracy),external,92,0.8369565217391305
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,healthy,archive5,10,1.0
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,healthy,archive6,8,0.875
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,clubbing,BASE,8,0.625
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,clubbing,archive5,22,0.8636363636363636
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,psoriasis,archive6,22,0.7272727272727273
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,ALL (accuracy),BASE,109,0.6880733944954128
+convnext_tiny-frozen-h_x3_e60_lightaug-f0,ALL (accuracy),external,92,0.7934782608695652
+convnext_tiny-full-default-f0,healthy,BASE,14,0.9285714285714286
+convnext_tiny-full-default-f0,healthy,archive5,10,1.0
+convnext_tiny-full-default-f0,healthy,archive6,8,1.0
+convnext_tiny-full-default-f0,clubbing,BASE,8,0.875
+convnext_tiny-full-default-f0,clubbing,archive5,22,1.0
+convnext_tiny-full-default-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-full-default-f0,psoriasis,archive6,22,0.8636363636363636
+convnext_tiny-full-default-f0,ALL (accuracy),BASE,109,0.7981651376146789
+convnext_tiny-full-default-f0,ALL (accuracy),external,92,0.8913043478260869
+convnext_tiny-full-lr_x0.3-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-full-lr_x0.3-f0,healthy,archive5,10,1.0
+convnext_tiny-full-lr_x0.3-f0,healthy,archive6,8,0.75
+convnext_tiny-full-lr_x0.3-f0,clubbing,BASE,8,0.875
+convnext_tiny-full-lr_x0.3-f0,clubbing,archive5,22,0.9545454545454546
+convnext_tiny-full-lr_x0.3-f0,psoriasis,BASE,9,0.5555555555555556
+convnext_tiny-full-lr_x0.3-f0,psoriasis,archive6,22,0.8181818181818182
+convnext_tiny-full-lr_x0.3-f0,ALL (accuracy),BASE,109,0.7247706422018348
+convnext_tiny-full-lr_x0.3-f0,ALL (accuracy),external,92,0.8260869565217391
+convnext_tiny-full-lr_x3-f0,healthy,BASE,14,1.0
+convnext_tiny-full-lr_x3-f0,healthy,archive5,10,1.0
+convnext_tiny-full-lr_x3-f0,healthy,archive6,8,1.0
+convnext_tiny-full-lr_x3-f0,clubbing,BASE,8,0.875
+convnext_tiny-full-lr_x3-f0,clubbing,archive5,22,1.0
+convnext_tiny-full-lr_x3-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-full-lr_x3-f0,psoriasis,archive6,22,0.9545454545454546
+convnext_tiny-full-lr_x3-f0,ALL (accuracy),BASE,109,0.8532110091743119
+convnext_tiny-full-lr_x3-f0,ALL (accuracy),external,92,0.9456521739130435
+convnext_tiny-full-reg-f0,healthy,BASE,14,0.9285714285714286
+convnext_tiny-full-reg-f0,healthy,archive5,10,1.0
+convnext_tiny-full-reg-f0,healthy,archive6,8,1.0
+convnext_tiny-full-reg-f0,clubbing,BASE,8,0.875
+convnext_tiny-full-reg-f0,clubbing,archive5,22,1.0
+convnext_tiny-full-reg-f0,psoriasis,BASE,9,0.7777777777777778
+convnext_tiny-full-reg-f0,psoriasis,archive6,22,0.9545454545454546
+convnext_tiny-full-reg-f0,ALL (accuracy),BASE,109,0.8073394495412844
+convnext_tiny-full-reg-f0,ALL (accuracy),external,92,0.9239130434782609
+convnext_tiny-partial-default-f0,healthy,BASE,14,0.9285714285714286
+convnext_tiny-partial-default-f0,healthy,archive5,10,1.0
+convnext_tiny-partial-default-f0,healthy,archive6,8,1.0
+convnext_tiny-partial-default-f0,clubbing,BASE,8,0.875
+convnext_tiny-partial-default-f0,clubbing,archive5,22,1.0
+convnext_tiny-partial-default-f0,psoriasis,BASE,9,0.5555555555555556
+convnext_tiny-partial-default-f0,psoriasis,archive6,22,0.9090909090909091
+convnext_tiny-partial-default-f0,ALL (accuracy),BASE,109,0.7798165137614679
+convnext_tiny-partial-default-f0,ALL (accuracy),external,92,0.9130434782608695
+convnext_tiny-partial-lr_x0.3-f0,healthy,BASE,14,0.8571428571428571
+convnext_tiny-partial-lr_x0.3-f0,healthy,archive5,10,1.0
+convnext_tiny-partial-lr_x0.3-f0,healthy,archive6,8,0.875
+convnext_tiny-partial-lr_x0.3-f0,clubbing,BASE,8,0.75
+convnext_tiny-partial-lr_x0.3-f0,clubbing,archive5,22,1.0
+convnext_tiny-partial-lr_x0.3-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-partial-lr_x0.3-f0,psoriasis,archive6,22,0.8636363636363636
+convnext_tiny-partial-lr_x0.3-f0,ALL (accuracy),BASE,109,0.7247706422018348
+convnext_tiny-partial-lr_x0.3-f0,ALL (accuracy),external,92,0.8586956521739131
+convnext_tiny-partial-lr_x3-f0,healthy,BASE,14,1.0
+convnext_tiny-partial-lr_x3-f0,healthy,archive5,10,1.0
+convnext_tiny-partial-lr_x3-f0,healthy,archive6,8,1.0
+convnext_tiny-partial-lr_x3-f0,clubbing,BASE,8,0.875
+convnext_tiny-partial-lr_x3-f0,clubbing,archive5,22,1.0
+convnext_tiny-partial-lr_x3-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-partial-lr_x3-f0,psoriasis,archive6,22,0.9090909090909091
+convnext_tiny-partial-lr_x3-f0,ALL (accuracy),BASE,109,0.8165137614678899
+convnext_tiny-partial-lr_x3-f0,ALL (accuracy),external,92,0.9021739130434783
+convnext_tiny-partial-reg-f0,healthy,BASE,14,0.9285714285714286
+convnext_tiny-partial-reg-f0,healthy,archive5,10,1.0
+convnext_tiny-partial-reg-f0,healthy,archive6,8,1.0
+convnext_tiny-partial-reg-f0,clubbing,BASE,8,0.875
+convnext_tiny-partial-reg-f0,clubbing,archive5,22,1.0
+convnext_tiny-partial-reg-f0,psoriasis,BASE,9,0.6666666666666666
+convnext_tiny-partial-reg-f0,psoriasis,archive6,22,0.9090909090909091
+convnext_tiny-partial-reg-f0,ALL (accuracy),BASE,109,0.7614678899082569
+convnext_tiny-partial-reg-f0,ALL (accuracy),external,92,0.9130434782608695

@@ -1,0 +1,19 @@
+{
+  "model": "vgg16",
+  "strategy": "frozen",
+  "tag": "h_x3_e60",
+  "fold": 0,
+  "final_epoch": 60,
+  "test_acc": 0.6517412935323383,
+  "test_macro_f1": 0.5873173106986541,
+  "test_bal_acc": 0.6188167119618733,
+  "train_time_min": 3.80555344025294,
+  "params_total": 134313805,
+  "params_trainable": 53261,
+  "checkpoint_mb": 537.266295,
+  "latency_ms_bs1_fp32": 14.927733500144313,
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.29",
+  "pretrained_license": "bsd-3-clause"
+}

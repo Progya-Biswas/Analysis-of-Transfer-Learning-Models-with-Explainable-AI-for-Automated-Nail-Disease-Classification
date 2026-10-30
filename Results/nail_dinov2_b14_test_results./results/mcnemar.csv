@@ -1,0 +1,4 @@
+run_a,run_b,a_right_b_wrong,a_wrong_b_right,p_value_exact
+vit_b16-frozen-default-f0,vit_b16-full-default-f0,6,47,5.805322444984995e-09
+vit_b16-frozen-default-f0,vit_b16-partial-default-f0,2,39,7.839844329282641e-10
+vit_b16-full-default-f0,vit_b16-partial-default-f0,11,7,0.480682373046875

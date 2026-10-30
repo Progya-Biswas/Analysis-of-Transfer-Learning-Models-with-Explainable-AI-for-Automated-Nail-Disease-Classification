@@ -1,0 +1,4 @@
+task,n,classes,acc,bal_acc,majority,acc_BASE_imgs,acc_external_imgs
+(a) source within healthy,150,3,0.847,0.845,0.373,,
+(a) source within clubbing,150,2,0.98,0.978,0.74,,
+(a) source within psoriasis,150,2,0.767,0.65,0.733,,

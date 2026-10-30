@@ -1,0 +1,13 @@
+model,strategy,tag,fold,acc,macro_f1,bal_acc
+vgg16,frozen,h_x3_e60_lightaug,0,0.6965,0.6249,0.6591
+vgg16,frozen,h_x3_e60,0,0.6517,0.5873,0.6188
+vgg16,frozen,h_x3,0,0.6517,0.5811,0.6075
+vgg16,frozen,default,0,0.6468,0.5687,0.6026
+vgg16,full,lr_x3,0,0.8557,0.8195,0.8163
+vgg16,full,default,0,0.8308,0.7799,0.7838
+vgg16,full,reg,0,0.806,0.7675,0.76
+vgg16,full,lr_x0.3,0,0.7761,0.7291,0.7425
+vgg16,partial,lr_x3,0,0.8109,0.7463,0.7605
+vgg16,partial,default,0,0.7861,0.7344,0.7499
+vgg16,partial,reg,0,0.7463,0.6807,0.7053
+vgg16,partial,lr_x0.3,0,0.7214,0.665,0.6895

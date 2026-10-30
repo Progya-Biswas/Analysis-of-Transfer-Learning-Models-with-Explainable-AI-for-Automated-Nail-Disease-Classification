@@ -1,0 +1,109 @@
+run,class,source,n,recall
+vgg16-frozen-default-f0,healthy,BASE,14,0.8571428571428571
+vgg16-frozen-default-f0,healthy,archive5,10,1.0
+vgg16-frozen-default-f0,healthy,archive6,8,1.0
+vgg16-frozen-default-f0,clubbing,BASE,8,0.375
+vgg16-frozen-default-f0,clubbing,archive5,22,0.7272727272727273
+vgg16-frozen-default-f0,psoriasis,BASE,9,0.5555555555555556
+vgg16-frozen-default-f0,psoriasis,archive6,22,0.5909090909090909
+vgg16-frozen-default-f0,ALL (accuracy),BASE,109,0.5963302752293578
+vgg16-frozen-default-f0,ALL (accuracy),external,92,0.7065217391304348
+vgg16-frozen-h_x3-f0,healthy,BASE,14,0.8571428571428571
+vgg16-frozen-h_x3-f0,healthy,archive5,10,1.0
+vgg16-frozen-h_x3-f0,healthy,archive6,8,1.0
+vgg16-frozen-h_x3-f0,clubbing,BASE,8,0.25
+vgg16-frozen-h_x3-f0,clubbing,archive5,22,0.7272727272727273
+vgg16-frozen-h_x3-f0,psoriasis,BASE,9,0.5555555555555556
+vgg16-frozen-h_x3-f0,psoriasis,archive6,22,0.6363636363636364
+vgg16-frozen-h_x3-f0,ALL (accuracy),BASE,109,0.5963302752293578
+vgg16-frozen-h_x3-f0,ALL (accuracy),external,92,0.717391304347826
+vgg16-frozen-h_x3_e60-f0,healthy,BASE,14,0.8571428571428571
+vgg16-frozen-h_x3_e60-f0,healthy,archive5,10,1.0
+vgg16-frozen-h_x3_e60-f0,healthy,archive6,8,1.0
+vgg16-frozen-h_x3_e60-f0,clubbing,BASE,8,0.25
+vgg16-frozen-h_x3_e60-f0,clubbing,archive5,22,0.7272727272727273
+vgg16-frozen-h_x3_e60-f0,psoriasis,BASE,9,0.5555555555555556
+vgg16-frozen-h_x3_e60-f0,psoriasis,archive6,22,0.5454545454545454
+vgg16-frozen-h_x3_e60-f0,ALL (accuracy),BASE,109,0.6055045871559633
+vgg16-frozen-h_x3_e60-f0,ALL (accuracy),external,92,0.7065217391304348
+vgg16-frozen-h_x3_e60_lightaug-f0,healthy,BASE,14,0.8571428571428571
+vgg16-frozen-h_x3_e60_lightaug-f0,healthy,archive5,10,1.0
+vgg16-frozen-h_x3_e60_lightaug-f0,healthy,archive6,8,1.0
+vgg16-frozen-h_x3_e60_lightaug-f0,clubbing,BASE,8,0.75
+vgg16-frozen-h_x3_e60_lightaug-f0,clubbing,archive5,22,0.7272727272727273
+vgg16-frozen-h_x3_e60_lightaug-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-frozen-h_x3_e60_lightaug-f0,psoriasis,archive6,22,0.5454545454545454
+vgg16-frozen-h_x3_e60_lightaug-f0,ALL (accuracy),BASE,109,0.6788990825688074
+vgg16-frozen-h_x3_e60_lightaug-f0,ALL (accuracy),external,92,0.717391304347826
+vgg16-full-default-f0,healthy,BASE,14,0.9285714285714286
+vgg16-full-default-f0,healthy,archive5,10,1.0
+vgg16-full-default-f0,healthy,archive6,8,1.0
+vgg16-full-default-f0,clubbing,BASE,8,0.875
+vgg16-full-default-f0,clubbing,archive5,22,0.9545454545454546
+vgg16-full-default-f0,psoriasis,BASE,9,0.7777777777777778
+vgg16-full-default-f0,psoriasis,archive6,22,0.8636363636363636
+vgg16-full-default-f0,ALL (accuracy),BASE,109,0.7889908256880734
+vgg16-full-default-f0,ALL (accuracy),external,92,0.8804347826086957
+vgg16-full-lr_x0.3-f0,healthy,BASE,14,0.9285714285714286
+vgg16-full-lr_x0.3-f0,healthy,archive5,10,1.0
+vgg16-full-lr_x0.3-f0,healthy,archive6,8,0.875
+vgg16-full-lr_x0.3-f0,clubbing,BASE,8,0.625
+vgg16-full-lr_x0.3-f0,clubbing,archive5,22,0.8636363636363636
+vgg16-full-lr_x0.3-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-full-lr_x0.3-f0,psoriasis,archive6,22,0.8181818181818182
+vgg16-full-lr_x0.3-f0,ALL (accuracy),BASE,109,0.7339449541284404
+vgg16-full-lr_x0.3-f0,ALL (accuracy),external,92,0.8260869565217391
+vgg16-full-lr_x3-f0,healthy,BASE,14,0.9285714285714286
+vgg16-full-lr_x3-f0,healthy,archive5,10,1.0
+vgg16-full-lr_x3-f0,healthy,archive6,8,1.0
+vgg16-full-lr_x3-f0,clubbing,BASE,8,0.875
+vgg16-full-lr_x3-f0,clubbing,archive5,22,1.0
+vgg16-full-lr_x3-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-full-lr_x3-f0,psoriasis,archive6,22,0.9545454545454546
+vgg16-full-lr_x3-f0,ALL (accuracy),BASE,109,0.7981651376146789
+vgg16-full-lr_x3-f0,ALL (accuracy),external,92,0.9239130434782609
+vgg16-full-reg-f0,healthy,BASE,14,0.9285714285714286
+vgg16-full-reg-f0,healthy,archive5,10,1.0
+vgg16-full-reg-f0,healthy,archive6,8,1.0
+vgg16-full-reg-f0,clubbing,BASE,8,0.75
+vgg16-full-reg-f0,clubbing,archive5,22,0.8636363636363636
+vgg16-full-reg-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-full-reg-f0,psoriasis,archive6,22,0.9545454545454546
+vgg16-full-reg-f0,ALL (accuracy),BASE,109,0.7522935779816514
+vgg16-full-reg-f0,ALL (accuracy),external,92,0.8695652173913043
+vgg16-partial-default-f0,healthy,BASE,14,0.9285714285714286
+vgg16-partial-default-f0,healthy,archive5,10,1.0
+vgg16-partial-default-f0,healthy,archive6,8,1.0
+vgg16-partial-default-f0,clubbing,BASE,8,0.625
+vgg16-partial-default-f0,clubbing,archive5,22,0.8636363636363636
+vgg16-partial-default-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-partial-default-f0,psoriasis,archive6,22,0.8636363636363636
+vgg16-partial-default-f0,ALL (accuracy),BASE,109,0.7431192660550459
+vgg16-partial-default-f0,ALL (accuracy),external,92,0.8369565217391305
+vgg16-partial-lr_x0.3-f0,healthy,BASE,14,0.8571428571428571
+vgg16-partial-lr_x0.3-f0,healthy,archive5,10,1.0
+vgg16-partial-lr_x0.3-f0,healthy,archive6,8,0.875
+vgg16-partial-lr_x0.3-f0,clubbing,BASE,8,0.625
+vgg16-partial-lr_x0.3-f0,clubbing,archive5,22,0.8181818181818182
+vgg16-partial-lr_x0.3-f0,psoriasis,BASE,9,0.5555555555555556
+vgg16-partial-lr_x0.3-f0,psoriasis,archive6,22,0.7272727272727273
+vgg16-partial-lr_x0.3-f0,ALL (accuracy),BASE,109,0.6880733944954128
+vgg16-partial-lr_x0.3-f0,ALL (accuracy),external,92,0.7608695652173914
+vgg16-partial-lr_x3-f0,healthy,BASE,14,0.9285714285714286
+vgg16-partial-lr_x3-f0,healthy,archive5,10,1.0
+vgg16-partial-lr_x3-f0,healthy,archive6,8,1.0
+vgg16-partial-lr_x3-f0,clubbing,BASE,8,0.625
+vgg16-partial-lr_x3-f0,clubbing,archive5,22,0.9090909090909091
+vgg16-partial-lr_x3-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-partial-lr_x3-f0,psoriasis,archive6,22,0.9090909090909091
+vgg16-partial-lr_x3-f0,ALL (accuracy),BASE,109,0.7522935779816514
+vgg16-partial-lr_x3-f0,ALL (accuracy),external,92,0.8804347826086957
+vgg16-partial-reg-f0,healthy,BASE,14,0.8571428571428571
+vgg16-partial-reg-f0,healthy,archive5,10,1.0
+vgg16-partial-reg-f0,healthy,archive6,8,1.0
+vgg16-partial-reg-f0,clubbing,BASE,8,0.5
+vgg16-partial-reg-f0,clubbing,archive5,22,0.8636363636363636
+vgg16-partial-reg-f0,psoriasis,BASE,9,0.6666666666666666
+vgg16-partial-reg-f0,psoriasis,archive6,22,0.8636363636363636
+vgg16-partial-reg-f0,ALL (accuracy),BASE,109,0.6880733944954128
+vgg16-partial-reg-f0,ALL (accuracy),external,92,0.8152173913043478

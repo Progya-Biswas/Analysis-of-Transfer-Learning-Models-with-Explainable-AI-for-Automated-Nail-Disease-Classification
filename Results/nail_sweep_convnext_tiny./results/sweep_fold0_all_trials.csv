@@ -1,0 +1,13 @@
+model,strategy,tag,fold,acc,macro_f1,bal_acc
+convnext_tiny,frozen,h_x3_e60,0,0.7463,0.6864,0.7011
+convnext_tiny,frozen,h_x3_e60_lightaug,0,0.7363,0.6783,0.7103
+convnext_tiny,frozen,h_x3,0,0.7363,0.6704,0.6749
+convnext_tiny,frozen,default,0,0.7065,0.6107,0.6144
+convnext_tiny,full,lr_x3,0,0.8955,0.8898,0.8744
+convnext_tiny,full,reg,0,0.8607,0.8296,0.8293
+convnext_tiny,full,default,0,0.8408,0.8071,0.8179
+convnext_tiny,full,lr_x0.3,0,0.7711,0.721,0.7345
+convnext_tiny,partial,lr_x3,0,0.8557,0.8273,0.8247
+convnext_tiny,partial,default,0,0.8408,0.8025,0.8064
+convnext_tiny,partial,reg,0,0.8308,0.7778,0.7803
+convnext_tiny,partial,lr_x0.3,0,0.7861,0.7295,0.7429

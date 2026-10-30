@@ -1,0 +1,28 @@
+run,class,source,n,recall
+vit_b16-frozen-default-f0,healthy,BASE,14,0.9285714285714286
+vit_b16-frozen-default-f0,healthy,archive5,10,0.9
+vit_b16-frozen-default-f0,healthy,archive6,8,1.0
+vit_b16-frozen-default-f0,clubbing,BASE,8,0.375
+vit_b16-frozen-default-f0,clubbing,archive5,22,0.8636363636363636
+vit_b16-frozen-default-f0,psoriasis,BASE,9,0.3333333333333333
+vit_b16-frozen-default-f0,psoriasis,archive6,22,0.5454545454545454
+vit_b16-frozen-default-f0,ALL (accuracy),BASE,109,0.5688073394495413
+vit_b16-frozen-default-f0,ALL (accuracy),external,92,0.75
+vit_b16-full-default-f0,healthy,BASE,14,1.0
+vit_b16-full-default-f0,healthy,archive5,10,1.0
+vit_b16-full-default-f0,healthy,archive6,8,1.0
+vit_b16-full-default-f0,clubbing,BASE,8,0.875
+vit_b16-full-default-f0,clubbing,archive5,22,0.9090909090909091
+vit_b16-full-default-f0,psoriasis,BASE,9,0.6666666666666666
+vit_b16-full-default-f0,psoriasis,archive6,22,0.8181818181818182
+vit_b16-full-default-f0,ALL (accuracy),BASE,109,0.8348623853211009
+vit_b16-full-default-f0,ALL (accuracy),external,92,0.8804347826086957
+vit_b16-partial-default-f0,healthy,BASE,14,1.0
+vit_b16-partial-default-f0,healthy,archive5,10,1.0
+vit_b16-partial-default-f0,healthy,archive6,8,1.0
+vit_b16-partial-default-f0,clubbing,BASE,8,0.875
+vit_b16-partial-default-f0,clubbing,archive5,22,0.9545454545454546
+vit_b16-partial-default-f0,psoriasis,BASE,9,0.6666666666666666
+vit_b16-partial-default-f0,psoriasis,archive6,22,0.7727272727272727
+vit_b16-partial-default-f0,ALL (accuracy),BASE,109,0.8256880733944955
+vit_b16-partial-default-f0,ALL (accuracy),external,92,0.8478260869565217

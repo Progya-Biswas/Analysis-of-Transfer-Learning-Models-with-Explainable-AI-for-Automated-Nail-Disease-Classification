@@ -1,0 +1,4 @@
+run_a,run_b,a_right_b_wrong,a_wrong_b_right,p_value_exact
+vgg16-frozen-default-f0,vgg16-full-default-f0,5,41,4.405936238072172e-08
+vgg16-frozen-default-f0,vgg16-partial-default-f0,3,30,1.4011748135089874e-06
+vgg16-full-default-f0,vgg16-partial-default-f0,14,5,0.063568115234375

@@ -1,0 +1,19 @@
+{
+  "model": "convnext_tiny",
+  "strategy": "partial",
+  "tag": "lr_x3",
+  "fold": 2,
+  "final_epoch": 40,
+  "test_acc": 0.8507462686567164,
+  "test_macro_f1": 0.8131424234533343,
+  "test_bal_acc": 0.8013520398462001,
+  "train_time_min": 2.7777504682540894,
+  "params_total": 27830125,
+  "params_trainable": 15482125,
+  "checkpoint_mb": 111.379739,
+  "latency_ms_bs1_fp32": 5.89008199995078,
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.29",
+  "pretrained_license": "apache-2.0"
+}
